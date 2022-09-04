@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @daaaru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-daaaru/daaaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 다루의 깃허브
+👀 기록하기
+🌱 Java, DB에 관심이 많아요
